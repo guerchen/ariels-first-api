@@ -1,0 +1,1 @@
+web: gunicorn ariels_first_api.wsgi --log-file -
