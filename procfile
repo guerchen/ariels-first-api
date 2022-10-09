@@ -1,1 +1,1 @@
-web: gunicorn ariels_first_api.wsgi --log-file -
+web: python my_first_api.py
