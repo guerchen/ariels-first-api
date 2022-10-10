@@ -1,1 +1,1 @@
-web: python my_first_api.py
+web: gunicorn my_first_api:app
